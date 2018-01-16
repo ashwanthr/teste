@@ -5,4 +5,5 @@ Om = Om./(0.96.*H);
 
 f = (0.01612.*exp(-8.562e-5.*Om.*Ra_hom));
 
+assssss;
 end
